@@ -1,0 +1,48 @@
+
+# Virtual environment
+venv/
+env/
+
+# API keys
+.env
+
+# Data files (don't commit large CSVs)
+data/raw/*.csv
+data/processed/*.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+```
+
+---
+
+### 8. Create `requirements.txt`
+
+**Create `requirements.txt`:**
+```
+serpapi
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+nltk
+spacy
+sqlalchemy
+python-dotenv
+jupyter
