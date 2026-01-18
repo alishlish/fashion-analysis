@@ -1,0 +1,37 @@
+{
+  "cluster_0": [
+    "samba",
+    "adidas",
+    "adidas samba",
+    "color",
+    "pair"
+  ],
+  "cluster_1": [
+    "sambas",
+    "adidas",
+    "adidas sambas",
+    "comfortable",
+    "look"
+  ],
+  "cluster_2": [
+    "margiela",
+    "tabi",
+    "margiela tabi",
+    "maison",
+    "maison margiela"
+  ],
+  "cluster_3": [
+    "toe",
+    "fashion",
+    "japanese",
+    "tabi",
+    "split"
+  ],
+  "cluster_4": [
+    "tabi",
+    "pair",
+    "heel",
+    "margiela",
+    "get"
+  ]
+}

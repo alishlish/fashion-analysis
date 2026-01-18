@@ -1,0 +1,7 @@
+{
+  "total_posts_analyzed": 118,
+  "unique_clusters_identified": 5,
+  "subreddits_analyzed": 4,
+  "vocabulary_size": 100,
+  "tfidf_features": 100
+}
